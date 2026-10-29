@@ -1,0 +1,5 @@
+Appointment Reminder System
+
+1. Remind users about upcoming appointments.
+2. Include the appointment date and time.
+3. Notify users before the scheduled appointment.
